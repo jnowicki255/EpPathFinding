@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PathFinder\AStarFinder.cs" />
+    <Compile Include="PathFinder\CostPointFinder.cs" />
     <Compile Include="PathFinder\DiagonalMovement.cs" />
     <Compile Include="PathFinder\GridPos.cs" />
     <Compile Include="PathFinder\GridRect.cs" />

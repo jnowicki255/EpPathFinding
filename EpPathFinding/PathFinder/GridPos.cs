@@ -43,22 +43,31 @@ namespace EpPathFinding
     {
         public int x;
         public int y;
+        public int cost;
 
         public GridPos()
         {
             x = 0;
             y = 0;
+            cost = 0;
         }
         public GridPos(int iX, int iY)
         {
             this.x = iX;
             this.y = iY;
         }
+        public GridPos(int iX, int iY, int iCost)
+        {
+            this.x = iX;
+            this.y = iY;
+            this.cost = iCost;
+        }
 
         public GridPos(GridPos b)
         {
             x = b.x;
             y = b.y;
+            cost = b.cost;
         }
 
         public override int GetHashCode()
