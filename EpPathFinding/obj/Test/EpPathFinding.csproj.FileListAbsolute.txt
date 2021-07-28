@@ -1,0 +1,8 @@
+C:\Users\Jacek\source\repos\lean-cart-webservices\lean-cart-libraries\EpPathFinding\EpPathFinding\bin\Test\EpPathFinding.dll
+C:\Users\Jacek\source\repos\lean-cart-webservices\lean-cart-libraries\EpPathFinding\EpPathFinding\bin\Test\EpPathFinding.pdb
+C:\Users\Jacek\source\repos\lean-cart-webservices\lean-cart-libraries\EpPathFinding\EpPathFinding\bin\Test\C5.dll
+C:\Users\Jacek\source\repos\lean-cart-webservices\lean-cart-libraries\EpPathFinding\EpPathFinding\obj\Test\EpPathFinding.csproj.AssemblyReference.cache
+C:\Users\Jacek\source\repos\lean-cart-webservices\lean-cart-libraries\EpPathFinding\EpPathFinding\obj\Test\EpPathFinding.csproj.CoreCompileInputs.cache
+C:\Users\Jacek\source\repos\lean-cart-webservices\lean-cart-libraries\EpPathFinding\EpPathFinding\obj\Test\EpPathFinding.csproj.CopyComplete
+C:\Users\Jacek\source\repos\lean-cart-webservices\lean-cart-libraries\EpPathFinding\EpPathFinding\obj\Test\EpPathFinding.dll
+C:\Users\Jacek\source\repos\lean-cart-webservices\lean-cart-libraries\EpPathFinding\EpPathFinding\obj\Test\EpPathFinding.pdb
